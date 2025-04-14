@@ -1,7 +1,6 @@
 # mint-backgrounds-xia
 
 ![AUR version](https://img.shields.io/aur/version/mint-backgrounds-xia?label=AUR)
-[![Build Status](https://drone.cryptic.systems/api/badges/volker.raschek/mint-backgrounds-xia-pkg/status.svg)](https://drone.cryptic.systems/volker.raschek/mint-backgrounds-xia-pkg)
 ![AUR votes](https://img.shields.io/aur/votes/mint-backgrounds-xia)
 
 This repository contains build files to build the Arch Linux package `mint-backgrounds-xia`. Instead of building the
